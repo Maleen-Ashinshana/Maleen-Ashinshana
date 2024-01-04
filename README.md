@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maleen</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Cafe_Management_System](https://github.com/Maleen-Ashinshana/Cafe_Management_System.git)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Maleen-Ashinshana](https://github.com/Maleen-Ashinshana)
 
 - 💬 Ask me about **JAVA,HTML,CSS**
